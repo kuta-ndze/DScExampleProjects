@@ -13,5 +13,5 @@ Laon status predictions.
 
 ## Data Collection API for SpaceX
 
-Collecting data via spaceX api, cleaning and prepare for further use
+Collecting data via spaceX api, cleaning and prepare for further use.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
