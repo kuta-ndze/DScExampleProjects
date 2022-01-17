@@ -2,7 +2,7 @@
 
 ## House price prediction
 
-predicting prices of a house, model refinement and evaluation.
+Predicting prices of a house, model refinement and evaluation.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
 
 ## Loan status prediction
@@ -10,3 +10,8 @@ predicting prices of a house, model refinement and evaluation.
 Some use cases of classification techniques and evaluation metrics in
 Laon status predictions.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
+
+## Data Collection API for SpaceX
+
+Collecting data via spaceX api, cleaning and prepare for further use
+[see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
