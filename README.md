@@ -20,3 +20,4 @@ Data wrangling checking variable
 distribution with value_counts(), writing iterative function to
 classify outcome class into binary outcomes of 1 or zero for successful
 and unsuccessful landing respectively.
+[see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Wrangling_EDA.ipynb)
