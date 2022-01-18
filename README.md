@@ -16,6 +16,8 @@ Laon status predictions.
 Collecting data via spaceX api, cleaning and prepare for further use.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
 
+## Data Wrangling
+
 Data wrangling checking variable
 distribution with value_counts(), writing iterative function to
 classify outcome class into binary outcomes of 1 or zero for successful
