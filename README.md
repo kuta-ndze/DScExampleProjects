@@ -31,4 +31,4 @@ falcon 9 booster was successful or not and help understand correlation between p
 
 ## SQL magic Exploratory Data Analysis
 
-Querring remote database instances with sequel magic.[see]()
+Querring remote database instances with sequel magic.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
