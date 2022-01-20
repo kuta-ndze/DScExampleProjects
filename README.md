@@ -35,4 +35,4 @@ Querring remote database instances with sequel magic.[see](https://github.com/ku
 
 ## EDA with data visualization
 
-Data visualization and preprocessing, dummy encoders for categorical variables and preparing data set for modelling and further exploration.[see]()
+Data visualization and preprocessing, dummy encoders for categorical variables and preparing data set for modelling and further exploration.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/EDA_With_Data_Visualization.ipynb)
