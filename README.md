@@ -23,3 +23,8 @@ distribution with value_counts(), writing iterative function to
 classify outcome class into binary outcomes of 1 or zero for successful
 and unsuccessful landing respectively.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Wrangling_EDA.ipynb)
+
+## Plotly dashboard
+
+Interactive dashboard with spacex data helps give a pictoral view if landing of
+falcon 9 booster was successful or not and help understand correlation between payload and mission outcome. various visual plots. [see]()
