@@ -27,4 +27,4 @@ and unsuccessful landing respectively.
 ## Plotly dashboard
 
 Interactive dashboard with spacex data helps give a pictoral view if landing of
-falcon 9 booster was successful or not and help understand correlation between payload and mission outcome. various visual plots. [see]()
+falcon 9 booster was successful or not and help understand correlation between payload and mission outcome. various visual plots. [see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/spacex_dash_app.py)
