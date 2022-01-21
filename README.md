@@ -36,3 +36,7 @@ Querring remote database instances with sequel magic.[see](https://github.com/ku
 ## EDA with data visualization
 
 Data visualization and preprocessing, dummy encoders for categorical variables and preparing data set for modelling and further exploration.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/EDA_With_Data_Visualization.ipynb)
+
+## Machine Learning Prediction for Capstone
+
+ML algorithms with optimal algorithm for the falcon 9 being the Decision tree classifier with higher accuracy. [see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/Machine_Learning_Predictions.ipynb)
