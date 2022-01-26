@@ -11,11 +11,9 @@ Some use cases of classification techniques and evaluation metrics in
 Laon status predictions.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
 
-<h1>
-<span style ="opacity :0.5; background-color: blue"> 
+<span style ="background-color: blue"> 
  DATA SCIENCE CAPSTONE PROJECT
 </span>
-<h1>
 
 ## Data Collection API for SpaceX
 
