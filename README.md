@@ -12,9 +12,7 @@ Laon status predictions.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
 
 <h1>
-<mark style ="background-color: #FF0000"> 
- DATA SCIENCE CAPSTONE PROJECT
-</mark>
+<mark> DATA SCIENCE CAPSTONE PROJECT </mark>
 </h1>
 
 ## Data Collection API for SpaceX
