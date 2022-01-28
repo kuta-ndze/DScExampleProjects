@@ -27,7 +27,7 @@ app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
                                                 {'label': 'KSC LC-39A', 'value': 'KSC LC-39A'},
                                                 {'label': 'CCAFS SLC-40', 'value': 'CCAFS SLC-40'}
                                                     ],
-                                            value= 'ALL',
+                                            value='ALL',
                                             placeholder='Select a Launch Site here',
                                             searchable=True
                                             ),
@@ -61,7 +61,7 @@ def get_pie_chart(entered_site):
      if entered_site == 'ALL':
          fig = px.pie(filtered_df, 
          values='class',
-         names= 'Lanuch Site',
+         names= 'Launch Site',
          title= 'Total Lauch success for all sites')
          return fig
      else:
