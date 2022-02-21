@@ -1,4 +1,4 @@
-## Data Science Example Projects
+`## Data Science Example Projects`
 
 ### House price prediction
 
@@ -10,6 +10,8 @@ Predicting prices of a house, model refinement and evaluation.
 Some use cases of classification techniques and evaluation metrics in
 Laon status predictions.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
+
+---
 
 <h1>
 <mark style ="background-color: #FFFF00"> DATA SCIENCE CAPSTONE PROJECT </mark>
