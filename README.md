@@ -28,14 +28,16 @@
   - [**Plotly App.py**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/app.py)
   - [**Heroku App.py**](https://spacex-dash-app.herokuapp.com/)
 
-![#008000](https://via.placeholder.com/15/008000/000000?text=+) **`SQL $\%$ EDA`**
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) **`SQL Magic EDA`**
 
 - Querring IBM db2 instances in Cloud with SQL-magic.
   - [**SQL_Magic_EDA.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
 
-### EDA with data visualization
+![#000cff](https://via.placeholder.com/15/000cff/000000?text=+) **`EDA with data visualization`**
 
-Data visualization and preprocessing, dummy encoders for categorical variables and preparing data set for modelling and further exploration.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/EDA_With_Data_Visualization.ipynb)
+- Data visualization and preprocessing, dummy encoders for categorical variables
+- Preparing data set for modelling and further exploration.
+  - [**EDA_Data_Visuals.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/EDA_With_Data_Visualization.ipynb)
 
 ### Machine Learning Prediction for Capstone
 
