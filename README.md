@@ -22,10 +22,10 @@
 - Iterative function to classify outcome class into binary outcomes of 1 or zero for successful and unsuccessful landing respectively.
   - [**Data_Wrangling.ipynb**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Wrangling_EDA.ipynb)
 
-### Plotly dashboard
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **`Plotly Dashboard`**
 
-Interactive dashboard with spacex data helps give a pictoral view if landing of
-falcon 9 booster was successful or not and help understand correlation between payload and mission outcome. various visual plots. [see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/app.py)
+- Interactive dashboard with spacex data helps give a pictoral view if landing of falcon 9 booster was successful or not and help understand correlation between payload and mission outcome. various visual plots.
+  - [**Plotly App.py**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/app.py) -[**Heroku App.py**](https://spacex-dash-app.herokuapp.com/)
 
 <p>See hosted app <a href = "https://spacex-dash-app.herokuapp.com/" target = "_blank"> spacex_dash_app.py </a>. </p>
 
