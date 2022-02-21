@@ -39,6 +39,8 @@
 - Preparing data set for modelling and further exploration.
   - [**EDA_Data_Visuals.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/EDA_With_Data_Visualization.ipynb)
 
-### Machine Learning Prediction for Capstone
+![#f0fff0](https://via.placeholder.com/15/f0fff0/000000?text=+) **`Machine Learning Predictions`**
 
-ML algorithms with optimal algorithm for the falcon 9 being the Decision tree classifier with higher accuracy. [see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/Machine_Learning_Predictions.ipynb)
+- ML algorithms trains on the Training set.
+- Optimal algorithm for the falcon 9 being the` Decision tree classifier` with higher accuracy score.
+  - [**ML_Predictions.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/Machine_Learning_Predictions.ipynb)
