@@ -30,7 +30,8 @@
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) **`SQL $\%$ EDA`**
 
-Querring remote database instances with sequel magic.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
+- Querring IBM db2 instances in Cloud with SQL-magic.
+  - [**SQL_Magic_EDA.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
 
 ### EDA with data visualization
 
