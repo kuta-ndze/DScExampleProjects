@@ -11,7 +11,7 @@
 
 ## `Data Science Capstone Project`
 
-### `Data Collection API for SpaceX`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Data Collection API for SpaceX`
 
 Collecting data via spaceX api, cleaning and prepare for further use.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
