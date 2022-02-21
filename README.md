@@ -42,5 +42,12 @@
 ![#f0fff0](https://via.placeholder.com/15/f0fff0/000000?text=+) **`Machine Learning Predictions`**
 
 - ML algorithms trains on the Training set.
-- Optimal algorithm for the falcon 9 being the` Decision tree classifier` with higher accuracy score.
+- Optimal algorithm for the falcon 9 being the `Decision tree classifier` with higher accuracy score.
   - [**ML_Predictions.ipynb**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/Machine_Learning_Predictions.ipynb)
+    | Algorithm | Accuracy Score | Test Data Score|
+    |:----------| :--------------| :--------------|
+    |DT |0.875000|0.833333|
+    |KNN |0.848214|0.833333|
+    |SVM |0.848214|0.833333|
+    |LR |0.846429|0.833333|
+    ======================================================================
