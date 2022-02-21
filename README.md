@@ -11,18 +11,16 @@
 
 ## `Data Science Capstone Project`
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `**Data Collection API for SpaceX**`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **`Data Collection API for SpaceX`**
 
 - Collecting data via spaceX api, cleaning and prepare for further use.
+
   - [**Data_Collection_API.ipynb**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
 
-### Data Wrangling
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **`Data Wrangling`**
 
-Data wrangling checking variable
-distribution with value_counts(), writing iterative function to
-classify outcome class into binary outcomes of 1 or zero for successful
-and unsuccessful landing respectively.
-[see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Wrangling_EDA.ipynb)
+- Iterative function to classify outcome class into binary outcomes of 1 or zero for successful and unsuccessful landing respectively.
+  - [**Data_Wrangling.ipynb**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Wrangling_EDA.ipynb)
 
 ### Plotly dashboard
 
