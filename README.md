@@ -28,8 +28,6 @@
   - [**Plotly App.py**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/app.py)
   - [**Heroku App.py**](https://spacex-dash-app.herokuapp.com/)
 
-<p>See hosted app <a href = "https://spacex-dash-app.herokuapp.com/" target = "_blank"> spacex_dash_app.py </a>. </p>
-
 ### SQL magic Exploratory Data Analysis
 
 Querring remote database instances with sequel magic.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
