@@ -1,4 +1,4 @@
-`## Data Science Example Projects`
+## `Data Science Example Projects`
 
 ### House price prediction
 
