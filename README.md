@@ -28,7 +28,7 @@
   - [**Plotly App.py**](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/app.py)
   - [**Heroku App.py**](https://spacex-dash-app.herokuapp.com/)
 
-### SQL magic Exploratory Data Analysis
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) **`SQL $\%$ EDA`**
 
 Querring remote database instances with sequel magic.[see](https://github.com/kuta-ndze/IBM_Data_Science_Capstone_Project/blob/main/SQL_Magic_EDA.ipynb)
 
