@@ -1,9 +1,11 @@
 ## `Data Science Example Projects`
 
-### `Example 1:` **`House price prediction`**
+### `Project 1:` **`ML Classification Techniques `**
 
-Predicting prices of a house, model refinement and evaluation.
-[see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
+- These projects are not part of the IBM data science professional course even though there are in the same repository.
+
+  - [**House Price Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
+  - [**Loan Status Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
 
 ### Loan status prediction
 
