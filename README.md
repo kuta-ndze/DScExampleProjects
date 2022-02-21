@@ -7,7 +7,7 @@
   - [**House Price Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
   - [**Loan Status Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
 
-===
+======================================================================
 
 ## `Data Science Capstone Project`
 
