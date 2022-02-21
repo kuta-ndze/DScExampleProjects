@@ -1,4 +1,4 @@
-## `Data Science Example Projects`
+## `Supervised ML Example Projects`
 
 ### `Project 1:` **`ML Classification Techniques `**
 
@@ -7,19 +7,13 @@
   - [**House Price Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
   - [**Loan Status Prediction**](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
 
-### Loan status prediction
-
-Some use cases of classification techniques and evaluation metrics in
-Laon status predictions.
-[see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Machine_Learning_With_Python.ipynb)
+---
 
 ---
 
-<h1>
-<mark style ="background-color: #FFFF00"> DATA SCIENCE CAPSTONE PROJECT </mark>
-</h1>
+## `Data Science Capstone Project`
 
-### Data Collection API for SpaceX
+### `Data Collection API for SpaceX`
 
 Collecting data via spaceX api, cleaning and prepare for further use.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/Data_Collection_API.ipynb)
