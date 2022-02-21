@@ -1,6 +1,6 @@
 ## `Data Science Example Projects`
 
-### House price prediction
+### `Example 1:` **`House price prediction`**
 
 Predicting prices of a house, model refinement and evaluation.
 [see](https://github.com/kuta-ndze/DScExampleProjects/blob/main/House%20Price%20Prediction.ipynb)
